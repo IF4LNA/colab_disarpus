@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1>Silahkan Login miskin</h1>
+    <h1>Silahkan Login sekarang</h1>
 </body>
 
 </html>
